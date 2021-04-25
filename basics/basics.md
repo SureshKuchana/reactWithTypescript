@@ -1,0 +1,1 @@
+# The intent of this basics folder to get familiar with type/interface defs to define state and props for react components with typescript, bz we write react components either by class or functional components.
